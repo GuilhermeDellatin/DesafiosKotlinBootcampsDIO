@@ -1,5 +1,7 @@
 package interAndroidDeveloper.praticandoAritmeticaEmKotlin
 
+import java.util.*
+
 /*
 Neste problema você deve ler um número que indica uma coluna de uma matriz na qual
 uma operação deve ser realizada, um caractere maiúsculo, indicando a operação que será realizada,
@@ -22,10 +24,11 @@ Exemplo de Entrada: 5, S, 0.0, -3.5, 2.5, 4.1, ...
 
 fun main() {
 
-    val C = readLine()!!.toInt()
+    val c = readLine()!!.toInt()
     var sum = 0.0
-    val T = readLine()!!.toUpperCase()
-    val M = Array(12) { DoubleArray(12) }
+    //val T = readLine()!!.toUpperCase() -> Use esta linha na plataforma da DIO para passar nos testes
+    val t = readLine()!!.uppercase(Locale.getDefault())
+    val m = Array(12) { DoubleArray(12) }
     var read: String
 
     for (i in 0..11) {
@@ -33,19 +36,19 @@ fun main() {
             read = readLine()!!
 
             try {
-                M[i][j] = read.toDouble()
+                m[i][j] = read.toDouble()
             } catch (e: Exception) {
-                M[i] = read.split(" ").map(String::toDouble).toDoubleArray()
+                m[i] = read.split(" ").map(String::toDouble).toDoubleArray()
                 break
             }
         }
     }
 
-    for (k in 0.until(M.size)) {
-        sum += M[k][C]
+    for (k in 0.until(m.size)) {
+        sum += m[k][c]
     }
 
-    if (T == "M") sum /= M.size
+    if (t == "M") sum /= m.size
     println(sum.format(1))
 }
 
