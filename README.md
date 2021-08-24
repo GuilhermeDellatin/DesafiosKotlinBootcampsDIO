@@ -22,4 +22,4 @@ Santander Bootcamp Mobile Developer
 
 Carrefour Android Developer
 
--Em breve..
+-Primeiros Passos em Kotlin: https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/carrefourAndroidDeveloper/primeirosPassosEmKotlin
