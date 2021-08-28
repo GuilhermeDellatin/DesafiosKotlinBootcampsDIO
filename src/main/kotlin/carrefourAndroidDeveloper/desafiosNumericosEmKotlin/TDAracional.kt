@@ -77,7 +77,7 @@ fun main() {
         while (!irredutivel) {
             irredutivel = true
             for (i in max - 1 downTo 2) {
-                if (N3 % i == 0 && D3 % i == 0) { // se for divisor do numerador e do denominador, divide
+                if (N3 % i == 0 && D3 % i == 0) {
                     N3 = N3 / i
                     D3 = D3 / i
                     irredutivel = false
