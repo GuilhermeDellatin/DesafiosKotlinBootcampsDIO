@@ -35,5 +35,8 @@
 <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/carrefourAndroidDeveloper/primeirosPassosEmKotlin">Primeiros Passos em Kotlin</a> 
 
 <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/carrefourAndroidDeveloper/introducaoAProgramacaoComKotlin">Introdução a Programação com Kotlin</a>
+  
+<a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/carrefourAndroidDeveloper/desafiosNumericosEmKotlin">Desafios Numéricos em Kotlin</a>
+  
 </div>
   
