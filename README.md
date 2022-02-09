@@ -15,6 +15,12 @@
   <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/everisKotlinDeveloper/solucionandoProblemasEmKotlin">Solucionando Problemas em Kotlin</a>
 </div>
 
+<div>
+  <h4>Aplicativo desenvolvidos no Bootcamp</h4>
+  
+  <a href="https://github.com/GuilhermeDellatin/imc_everis_dio">IMC</a>
+</div>
+
 #
 
 <div>
@@ -25,6 +31,14 @@
    <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/interAndroidDeveloper/praticandoAritmeticaEmKotlin">Praticando Aritmética em Kotlin</a>
 
   <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/interAndroidDeveloper/solucionandoDesafiosEmKotlin">Solucionando Desafios em Kotlin</a>
+</div>
+
+<div>
+  <h4>Desafios</h4>
+  
+  <a href="https://github.com/GuilhermeDellatin/MeuPortfolio">Aplicativo MeuPortfolio</a>
+  
+  <a href="https://github.com/GuilhermeDellatin/Bootcamp_Inter_BusinessCard">Aplicativo de cartão de visitas BusinessCard</a>
 </div>
   
 #
@@ -38,6 +52,12 @@
 
   <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/santanderAndroidDeveloper/praticandoProgramacaoEmKotlin">Praticando Programação em Kotlin</a> 
 </div>
+
+<div>
+  <h4>Desafios</h4>
+  
+  <a href="https://github.com/GuilhermeDellatin/MyTodoList">Aplicativo para lista de tarefas MyTodoList</a>
+</div>
   
 #
 
@@ -49,9 +69,16 @@
 <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/carrefourAndroidDeveloper/introducaoAProgramacaoComKotlin">Introdução a Programação com Kotlin</a>
   
 <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/carrefourAndroidDeveloper/desafiosNumericosEmKotlin">Desafios Numéricos em Kotlin</a>
-  
 </div>
 
+<div>
+  <h4>Desafios</h4>
+  
+  <a href="https://github.com/GuilhermeDellatin/MyTodoList">Aplicativo para lista de tarefas MyTodoList</a>
+  
+  <a href="https://github.com/GuilhermeDellatin/CoinConverter">Aplicativo para conversão de moedas CoinConverter</a>
+</div>  
+  
 #
 
 <div>
