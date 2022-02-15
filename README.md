@@ -16,7 +16,7 @@
 </div>
 
 <div>
-  <h4>Aplicativo desenvolvidos no Bootcamp</h4>
+  <h4>Projetos desenvolvidos no Bootcamp</h4>
   
   <a href="https://github.com/GuilhermeDellatin/imc_everis_dio">IMC</a>
 </div>
@@ -34,7 +34,7 @@
 </div>
 
 <div>
-  <h4>Desafios</h4>
+  <h4>Projetos desenvolvidos no Bootcamp</h4>
   
   <a href="https://github.com/GuilhermeDellatin/MeuPortfolio">Aplicativo MeuPortfolio</a>
   
@@ -54,7 +54,7 @@
 </div>
 
 <div>
-  <h4>Desafios</h4>
+  <h4>Projetos desenvolvidos no Bootcamp</h4>
   
   <a href="https://github.com/GuilhermeDellatin/MyTodoList">Aplicativo para lista de tarefas MyTodoList</a>
 </div>
@@ -72,7 +72,7 @@
 </div>
 
 <div>
-  <h4>Desafios</h4>
+  <h4>Projetos desenvolvidos no Bootcamp</h4>
   
   <a href="https://github.com/GuilhermeDellatin/MyTodoList">Aplicativo para lista de tarefas MyTodoList</a>
   
@@ -85,6 +85,13 @@
     <h4>NTTData Android Developer</h4>
     
 <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/nttDataAndroidDeveloper/desafiosIniciantesEmKotlin">Desafios Iniciantes em Kotlin</a>
+  
+  <div>
+  <h4>Projetos desenvolvidos no Bootcamp</h4>
+  
+  <a href="https://github.com/GuilhermeDellatin/MyTodoList">Aplicativo para lista de tarefas MyTodoList</a>
+
+</div>  
 
 
 </div>
