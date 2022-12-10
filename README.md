@@ -102,6 +102,6 @@
 
   <a href="https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos-lab">Desafio Proposto</a>
 
-   <a>Em andamento</a>
+   <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/kotlinExperience/refinandoSuaTecnicaComDesafiosDeCodigoEmKotlin">Refinando sua técnica com desafios de código em Kotlin</a>
 </div>
   
