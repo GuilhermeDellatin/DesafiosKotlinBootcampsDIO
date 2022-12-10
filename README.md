@@ -99,7 +99,9 @@
 
 <div>
    <h4>Kotlin Experience</h4>
-  
+
+  <a href="https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos-lab">Desafio Proposto</a>
+
    <a>Em andamento</a>
 </div>
   
