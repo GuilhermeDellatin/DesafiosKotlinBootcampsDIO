@@ -104,7 +104,7 @@
 
    <a href="https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos-lab">Enunciado e repositório do desafio proposto</a>
 
-   <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/tree/master/src/main/kotlin/kotlinExperience/refinandoSuaTecnicaComDesafiosDeCodigoEmKotlin">Desafio Proposto, solução em breve</a>
+   <a href="https://github.com/GuilhermeDellatin/DesafiosKotlinBootcampsDIO/blob/master/src/main/kotlin/kotlinExperience/refinandoSuaTecnicaComDesafiosDeCodigoEmKotlin/desafioDeProjeto/AprendaKotlinComExemplosDesafioDeProjeto.kt">Desafio Proposto e sua solução</a>
 
 </div>
   
