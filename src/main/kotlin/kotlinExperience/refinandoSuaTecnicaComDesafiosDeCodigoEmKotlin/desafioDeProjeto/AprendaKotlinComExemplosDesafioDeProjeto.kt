@@ -37,7 +37,7 @@ class Formacao(val nome: String, var conteudos: List<ConteudoEducacional>, var n
     }
 
     private fun printConteudos() {
-        for (conteudo in conteudos) {
+        conteudos.forEach { conteudo ->
             println("conteúdo: ${conteudo.nomeConteudo}, duração: ${conteudo.duracao}")
         }
     }
